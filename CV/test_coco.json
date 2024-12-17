@@ -1,0 +1,226 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "width": 1024,
+      "height": 768,
+      "file_name": "2.jpg",
+      "coco_url": "AmlDatastore://catsvsdogs_datastore/2.jpg",
+      "absolute_url": "https://teststoragedeleteca.blob.core.windows.net/dogsandcats/2.jpg",
+      "date_captured": "2024-08-27T21:54:24.9262967Z"
+    },
+    {
+      "id": 2,
+      "width": 474,
+      "height": 320,
+      "file_name": "8.jpg",
+      "coco_url": "AmlDatastore://catsvsdogs_datastore/8.jpg",
+      "absolute_url": "https://teststoragedeleteca.blob.core.windows.net/dogsandcats/8.jpg",
+      "date_captured": "2024-08-27T21:54:24.9262852Z"
+    },
+    {
+      "id": 3,
+      "width": 750,
+      "height": 697,
+      "file_name": "4.jpg",
+      "coco_url": "AmlDatastore://catsvsdogs_datastore/4.jpg",
+      "absolute_url": "https://teststoragedeleteca.blob.core.windows.net/dogsandcats/4.jpg",
+      "date_captured": "2024-08-27T21:54:24.9262813Z"
+    },
+    {
+      "id": 4,
+      "width": 474,
+      "height": 412,
+      "file_name": "3.jpg",
+      "coco_url": "AmlDatastore://catsvsdogs_datastore/3.jpg",
+      "absolute_url": "https://teststoragedeleteca.blob.core.windows.net/dogsandcats/3.jpg",
+      "date_captured": "2024-08-27T21:54:24.926273Z"
+    },
+    {
+      "id": 5,
+      "width": 2160,
+      "height": 3840,
+      "file_name": "9.jpg",
+      "coco_url": "AmlDatastore://catsvsdogs_datastore/9.jpg",
+      "absolute_url": "https://teststoragedeleteca.blob.core.windows.net/dogsandcats/9.jpg",
+      "date_captured": "2024-08-27T21:54:24.9262871Z"
+    },
+    {
+      "id": 6,
+      "width": 2392,
+      "height": 2500,
+      "file_name": "7.jpeg",
+      "coco_url": "AmlDatastore://catsvsdogs_datastore/7.jpeg",
+      "absolute_url": "https://teststoragedeleteca.blob.core.windows.net/dogsandcats/7.jpeg",
+      "date_captured": "2024-08-27T21:54:24.9262943Z"
+    },
+    {
+      "id": 7,
+      "width": 3456,
+      "height": 2304,
+      "file_name": "6.jpg",
+      "coco_url": "AmlDatastore://catsvsdogs_datastore/6.jpg",
+      "absolute_url": "https://teststoragedeleteca.blob.core.windows.net/dogsandcats/6.jpg",
+      "date_captured": "2024-08-27T21:54:24.9262907Z"
+    },
+    {
+      "id": 8,
+      "width": 474,
+      "height": 296,
+      "file_name": "5.jpg",
+      "coco_url": "AmlDatastore://catsvsdogs_datastore/5.jpg",
+      "absolute_url": "https://teststoragedeleteca.blob.core.windows.net/dogsandcats/5.jpg",
+      "date_captured": "2024-08-27T21:54:24.9262888Z"
+    },
+    {
+      "id": 9,
+      "width": 2048,
+      "height": 1536,
+      "file_name": "1.jpg",
+      "coco_url": "AmlDatastore://catsvsdogs_datastore/1.jpg",
+      "absolute_url": "https://teststoragedeleteca.blob.core.windows.net/dogsandcats/1.jpg",
+      "date_captured": "2024-08-27T21:54:24.9262991Z"
+    },
+    {
+      "id": 10,
+      "width": 474,
+      "height": 315,
+      "file_name": "10.jpg",
+      "coco_url": "AmlDatastore://catsvsdogs_datastore/10.jpg",
+      "absolute_url": "https://teststoragedeleteca.blob.core.windows.net/dogsandcats/10.jpg",
+      "date_captured": "2024-08-27T21:54:24.9262925Z"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "category_id": 2,
+      "image_id": 1,
+      "area": 0.779,
+      "bbox": [
+        0.10260754870129872,
+        0.08961038961038961,
+        0.8707792207792209,
+        0.8948051948051948
+      ]
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "image_id": 2,
+      "area": 0.776,
+      "bbox": [
+        0.016905035892377664,
+        0.02207792207792208,
+        0.7934681352402871,
+        0.977922077922078
+      ]
+    },
+    {
+      "id": 3,
+      "category_id": 2,
+      "image_id": 3,
+      "area": 0.716,
+      "bbox": [
+        0.201896158008658,
+        0.016883116883116882,
+        0.7338112554112555,
+        0.9753246753246754
+      ]
+    },
+    {
+      "id": 4,
+      "category_id": 2,
+      "image_id": 4,
+      "area": 0.492,
+      "bbox": [
+        0.21102046687489726,
+        0.07012987012987013,
+        0.585862239026796,
+        0.8402597402597403
+      ]
+    },
+    {
+      "id": 5,
+      "category_id": 1,
+      "image_id": 5,
+      "area": 0.75,
+      "bbox": [
+        0.1075036075036075,
+        0.12727272727272726,
+        0.8888888888888888,
+        0.8441558441558441
+      ]
+    },
+    {
+      "id": 6,
+      "category_id": 1,
+      "image_id": 6,
+      "area": 0.664,
+      "bbox": [
+        0.10230937540720149,
+        0.024675324675324677,
+        0.7411067193675889,
+        0.8961038961038962
+      ]
+    },
+    {
+      "id": 7,
+      "category_id": 1,
+      "image_id": 7,
+      "area": 0.645,
+      "bbox": [
+        0.1510822510822511,
+        0.13246753246753246,
+        0.8147186147186147,
+        0.7922077922077921
+      ]
+    },
+    {
+      "id": 8,
+      "category_id": 2,
+      "image_id": 8,
+      "area": 0.672,
+      "bbox": [
+        0.09288522658775825,
+        0.0,
+        0.6796208011397886,
+        0.9883116883116884
+      ]
+    },
+    {
+      "id": 9,
+      "category_id": 2,
+      "image_id": 9,
+      "area": 0.599,
+      "bbox": [
+        0.20390625000000004,
+        0.09480519480519481,
+        0.6905844155844156,
+        0.8675324675324676
+      ]
+    },
+    {
+      "id": 10,
+      "category_id": 1,
+      "image_id": 10,
+      "area": 0.602,
+      "bbox": [
+        0.24367987629459148,
+        0.06233766233766234,
+        0.6611047180667433,
+        0.9103896103896104
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "cat"
+    },
+    {
+      "id": 2,
+      "name": "dog"
+    }
+  ]
+}
